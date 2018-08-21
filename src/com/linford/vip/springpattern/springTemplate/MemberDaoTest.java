@@ -10,6 +10,9 @@ import com.linford.vip.springpattern.springTemplate.dao.MemberDao;
  * 特点：执行流程固定，但中间有些步骤有细微差别(运行时才确定)，
  * 可实现批量生产。
  * 穷举：springORM数据模型
+ *策略模式与模板模式对比
+ * 策略模式：只有选择权(由用户自己选择已有的固定算法)
+ * 模板模式：侧重的点不是选择，你没得选择，你必须这么做，你可以参与某一部分内容自定义
  */
 public class MemberDaoTest {
     public static void main(String[] args) {

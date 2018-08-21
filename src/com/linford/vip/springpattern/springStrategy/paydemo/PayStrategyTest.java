@@ -9,6 +9,7 @@ import com.linford.vip.springpattern.springStrategy.paydemo.payport.PayType;
  *
  * 属于行为型模式，特点是最终执行结果是固定的，执行过程和执行逻辑不一样
  * 穷举：旅游出行方式，比较器，固定算法，买东西结算支付
+ * 用户有选择权
  */
 public class PayStrategyTest {
     public static void main(String[] args) {
