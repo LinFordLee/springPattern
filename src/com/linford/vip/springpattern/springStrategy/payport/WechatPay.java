@@ -1,6 +1,6 @@
-package com.linford.vip.springpattern.springStrategy.paydemo.payport;
+package com.linford.vip.springpattern.springStrategy.payport;
 
-import com.linford.vip.springpattern.springStrategy.paydemo.PayState;
+import com.linford.vip.springpattern.springStrategy.PayState;
 
 public class WechatPay implements Payment {
     @Override

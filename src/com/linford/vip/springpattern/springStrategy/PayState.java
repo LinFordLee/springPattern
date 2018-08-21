@@ -1,4 +1,4 @@
-package com.linford.vip.springpattern.springStrategy.paydemo;
+package com.linford.vip.springpattern.springStrategy;
 
 /**
  * 支付完成的状态

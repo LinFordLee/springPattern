@@ -1,4 +1,4 @@
-package com.linford.vip.springpattern.springStrategy.paydemo.payport;
+package com.linford.vip.springpattern.springStrategy.payport;
 
 
 public enum PayType {

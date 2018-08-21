@@ -1,6 +1,6 @@
-package com.linford.vip.springpattern.springStrategy.paydemo;
+package com.linford.vip.springpattern.springStrategy;
 
-import com.linford.vip.springpattern.springStrategy.paydemo.payport.PayType;
+import com.linford.vip.springpattern.springStrategy.payport.PayType;
 
 public class Order {
     private String uid;
